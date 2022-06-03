@@ -19,3 +19,6 @@ Phisycal assembly and fine tuning
  
  
  Link to onshape [https://cvilleschools.onshape.com/documents/01f149369cff530876699502/w/a6564936c611a9634bbdb338/e/5776f014f9dab495175e89ac]
+Some more pictures of final project
+![WIN_20220603_15_54_16_Pro](https://user-images.githubusercontent.com/71349802/171940957-6ae17282-5a6b-4af6-a5e3-8093c91985d4.jpg)
+I made a friction fit box and turn table, but the mess of wires was too much.
